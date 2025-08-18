@@ -1,10 +1,9 @@
-import Image from "next/image";
-import Button from "./component/button";
+import Button from "./components/button/button";
 
 export default function Home() {
   return (
     <div>
-      {/* <Button/> */}
+      <Button />
       Placeholder
     </div>
   );
