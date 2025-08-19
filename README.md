@@ -1,6 +1,6 @@
 # Figma Devmode files
 
-* [Figma link](https://www.figma.com/design/OA4hXgvhKtLUTltmB6qsXt/Figma-Dev-Mode-Training?node-id=0-1&t=2uZekUquA2IPmvZ6-1)
+* [Figma link](https://www.figma.com/community/file/1539354604348220594)
 
 ## To install this repo
 
@@ -10,4 +10,3 @@
 * Activate the Figma for VS Code extension by logging into Figma
 * `npm i` to install dependencies
 * `npm run dev` to start the 🪄 magic
-  
