@@ -21,6 +21,7 @@
   * [ ]  Strings
   * [ ]  Boolean
 * [ ]  Modes
+* [ ]  Autolayout
 * [ ]  Ready for Dev status
 * [ ]  Component playground
 * [ ]  Compare items
